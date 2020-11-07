@@ -1,2 +1,2 @@
-# NET
-Proyectos con .NET
+# LovelyT
+Proyecto web con .NET
